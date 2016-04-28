@@ -1,2 +1,2 @@
 git genggai
-git jiayou
+git add jiayou
